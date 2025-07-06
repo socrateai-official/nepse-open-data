@@ -1,0 +1,11 @@
+open,high,low,close,volume,symbol,date
+795.9,795.9,795.9,795.9,,NEPSE_index,2008-02-14
+162.3,162.3,162.3,162.3,,Trading_index,2008-02-14
+1257.2,1257.2,1257.2,1257.2,,HydroPower_index,2008-02-14
+790.6,790.6,790.6,790.6,,Banking_index,2008-02-14
+803.4,803.4,803.4,803.4,,Insurance_index,2008-02-14
+,,,,,Sensitive_index,2008-02-14
+1067.3,1067.3,1067.3,1067.3,,Development%20Bank_index,2008-02-14
+817.5,817.5,817.5,817.5,,Others_index,2008-02-14
+953.0,953.0,953.0,953.0,,Finance_index,2008-02-14
+413.6,413.6,413.6,413.6,,Hotels%20and%20Tourism_index,2008-02-14

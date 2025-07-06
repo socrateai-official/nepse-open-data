@@ -1,0 +1,11 @@
+open,high,low,close,volume,symbol,date
+276.5,276.5,276.5,276.5,,Hotels%20and%20Tourism_index,2007-09-05
+871.4,871.4,871.4,871.4,,Banking_index,2007-09-05
+818.1,818.1,818.1,818.1,,Others_index,2007-09-05
+509.8,509.8,509.8,509.8,,Finance_index,2007-09-05
+670.5,670.5,670.5,670.5,,Development%20Bank_index,2007-09-05
+1393.3,1393.3,1393.3,1393.3,,HydroPower_index,2007-09-05
+162.1,162.1,162.1,162.1,,Trading_index,2007-09-05
+785.4,785.4,785.4,785.4,,NEPSE_index,2007-09-05
+,,,,,Sensitive_index,2007-09-05
+646.3,646.3,646.3,646.3,,Insurance_index,2007-09-05

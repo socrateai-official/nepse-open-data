@@ -1,0 +1,10 @@
+open,high,low,close,volume,symbol,date
+231.19,231.19,231.19,231.19,,Insurance_index,2004-10-05
+145.5,145.5,145.5,145.5,,Others_index,2004-10-05
+208.72,208.72,208.72,208.72,,Finance_index,2004-10-05
+196.9,196.9,196.9,196.9,,Development%20Bank_index,2004-10-05
+188.53,188.53,188.53,188.53,,Hotels%20and%20Tourism_index,2004-10-05
+234.0,234.0,234.0,234.0,,NEPSE_index,2004-10-05
+98.87,98.87,98.87,98.87,,Trading_index,2004-10-05
+247.11,247.11,247.11,247.11,,Banking_index,2004-10-05
+,,,,,Sensitive_index,2004-10-05

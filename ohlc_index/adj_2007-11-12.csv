@@ -1,0 +1,11 @@
+open,high,low,close,volume,symbol,date
+1319.7,1319.7,1319.7,1319.7,,HydroPower_index,2007-11-12
+889.1,889.1,889.1,889.1,,NEPSE_index,2007-11-12
+818.1,818.1,818.1,818.1,,Others_index,2007-11-12
+958.4,958.4,958.4,958.4,,Banking_index,2007-11-12
+162.0,162.0,162.0,162.0,,Trading_index,2007-11-12
+280.4,280.4,280.4,280.4,,Hotels%20and%20Tourism_index,2007-11-12
+1141.4,1141.4,1141.4,1141.4,,Development%20Bank_index,2007-11-12
+,,,,,Sensitive_index,2007-11-12
+756.2,756.2,756.2,756.2,,Finance_index,2007-11-12
+734.8,734.8,734.8,734.8,,Insurance_index,2007-11-12
